@@ -1,2 +1,0 @@
-rosbag_make
--DCATKIN_DEVEL_PREFIX=/home/jz/code/pcd_save/devel -DCMAKE_INSTALL_PREFIX=/home/jz/code/pcd_save/install -G Unix Makefiles
